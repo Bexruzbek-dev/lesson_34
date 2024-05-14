@@ -352,7 +352,7 @@ class _Page1State extends State<Page1> {
                                       width: 100,
                                       decoration: BoxDecoration(
                                         borderRadius: BorderRadius.circular(
-                                          15,
+                                          15,   
                                         ),
                                       ),
                                       clipBehavior: Clip.hardEdge,
