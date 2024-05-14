@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:gap/gap.dart';
 
 class Page2 extends StatefulWidget {
@@ -228,7 +227,7 @@ class _Page2State extends State<Page2> {
                               ),
                               Gap(10),
                               Text(
-                                " \$174.99",
+                                " \$699.99",
                                 style: TextStyle(
                                     fontSize: 19,
                                     color: Colors.black,
@@ -296,7 +295,7 @@ class _Page2State extends State<Page2> {
                               ),
                               Gap(10),
                               Text(
-                                " \$174.99",
+                                " \$820.99",
                                 style: TextStyle(
                                     fontSize: 19,
                                     color: Colors.black,
